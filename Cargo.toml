@@ -1,0 +1,12 @@
+[package]
+name = "dfpl"
+version = "0.0.1"
+authors = ["Wizz Berry <wisbery@users.noreply.github.com>"]
+description = "Decimal floating-point library for Rust"
+documentation = "https://docs.rs/dfpl"
+repository = "https://github.com/wisbery/dfpl.git"
+keywords = ["decimal", "floating", "point", "arithmetic"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
