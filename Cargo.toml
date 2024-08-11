@@ -1,10 +1,10 @@
 [package]
 name = "dfpl"
-version = "0.0.1"
-authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+version = "0.0.2"
+authors = ["Dariusz Depta <depta@engos.de>"]
 description = "Decimal floating-point library for Rust"
 documentation = "https://docs.rs/dfpl"
-repository = "https://github.com/wisbery/dfpl.git"
+repository = "https://github.com/EngosSoftware/dfpl.git"
 keywords = ["decimal", "floating", "point", "arithmetic"]
 license = "MIT OR Apache-2.0"
 edition = "2021"
